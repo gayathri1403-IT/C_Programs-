@@ -1,0 +1,1 @@
+print("Hello,this is day 1 of my python learning journey!")
